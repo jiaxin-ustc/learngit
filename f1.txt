@@ -1,2 +1,2 @@
 hello world!
-git tracks change
+git tracks change of file
