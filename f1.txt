@@ -2,3 +2,4 @@ hello world!
 git tracks change of file
 try again!
 try again after it
+my boss is stupid

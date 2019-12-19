@@ -1,0 +1,1 @@
+test checkout -- file restore from which status,version reposity or still from stage
